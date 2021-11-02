@@ -4,10 +4,10 @@ Finance is defined as the management of money and includes activities like savin
 
 [Decentralized Finance (DeFi)](https://ethereum.org/hr/defi/){target=\_blank} is a term used for software built on programmable open-source blockchains using smart contracts. The aim is to transform traditional financial products into reliable, permissionless, transparent, and censorship-resistant protocols without centralized intermediaries. In some ways, DeFi protocol devs are writing firmware for scalable social collaboration and resource allocation. They extend the internet of value to more complex activities.
 
-DeFi protocols share three interesting characteristics among many:
+DeFi protocols share these interesting characteristics among many:
 
 1. **Interoperability:** The ability to share data and work with each other
-2. **Composability:** money legos, aka they be used in different ways to create new things
+2. **Composability:** money legos, aka they are used in different ways to create new things
 3. **Immutability:** the inability for the core logic to be changed, allowing for more trust.
 4. **Permissionless:** the ability to interact with a protocol without third party permission
 5. **Auditable:** the history of its activities can be investigated by anyone
